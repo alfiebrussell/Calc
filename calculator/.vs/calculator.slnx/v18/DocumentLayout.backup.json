@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AlfieBradley-Russell\\source\\repos\\calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81A26F36-FB6C-4C36-A861-141F46F67C1A}|calculator\\calculator.vcxproj|C:\\Users\\AlfieBradley-Russell\\source\\repos\\calculator\\calculator\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{81A26F36-FB6C-4C36-A861-141F46F67C1A}|calculator\\calculator.vcxproj|solutionrelative:calculator\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\AlfieBradley-Russell\\source\\repos\\calculator\\calculator\\Source.cpp",
+              "RelativeDocumentMoniker": "calculator\\Source.cpp",
+              "ToolTip": "C:\\Users\\AlfieBradley-Russell\\source\\repos\\calculator\\calculator\\Source.cpp",
+              "RelativeToolTip": "calculator\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-28T16:53:57.455Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

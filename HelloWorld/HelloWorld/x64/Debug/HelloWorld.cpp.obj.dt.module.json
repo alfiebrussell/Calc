@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "HelloWorld\\x64\\Debug\\HelloWorld.obj",
+            "outputs": [
+                "HelloWorld\\x64\\Debug\\HelloWorld.cpp.obj.dt.module.json",
+                "HelloWorld\\x64\\Debug\\HelloWorld.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
